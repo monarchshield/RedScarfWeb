@@ -1603,6 +1603,16 @@ pre code {
     width: 1170px;
   }
 }
+
+.RuthContainer
+{
+	padding-right: 15px;
+	padding-left: 15px;
+	margin-right: auto;
+	margin-left: auto;
+	height: 100%;
+}
+
 .container-fluid {
   padding-right: 15px;
   padding-left: 15px;
