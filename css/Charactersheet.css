@@ -1,0 +1,28 @@
+
+.RuthBio {
+    padding: 50px 0;
+	height: 100%;
+	background: url('../Images/Backgrounds/Beach.png') no-repeat center center scroll;
+	
+}
+
+.MarcelBio {
+    padding: 50px 0;
+	height: 100%;
+	background: url('../Images/Backgrounds/MarcelEnviroment.png') no-repeat center center scroll;
+	
+}
+
+.BazzaBio {
+    padding: 50px 0;
+	height: 100%;
+	background: url('../Images/Backgrounds/BazzaBackground.png') no-repeat center center scroll;
+	
+}
+
+.AeiouBio {
+    padding: 50px 0;
+	height: 100%;
+	background: url('../Images/Backgrounds/Labratory.png') no-repeat center center scroll;
+	
+}
